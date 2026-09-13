@@ -13,8 +13,8 @@ namespace Tyuiu.BolohovcevaSV.Sprint0.Task1.V0
             Console.WriteLine("Hello, World!");
 
             //Объявляем переменные
-            string name = "Игорь";
-            int age = 45;
+            string name = "София";
+            int age = 18;
 
             //Вывод на консоль строку
             Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет.");
